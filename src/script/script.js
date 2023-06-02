@@ -104,7 +104,7 @@ saveButton.addEventListener('click', (event) => {
     return;
   }
   else if (/^\d/.test(newName)) {
-    alert("The name cannot begin with a number!");
+    alert("The name cannot begin with ф number!");
     return;
   }
 
