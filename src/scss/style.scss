@@ -1,0 +1,81 @@
+@import "~bootstrap/scss/bootstrap";
+.amogus{
+    margin: auto;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.cube_with_information{
+    width: 200px;
+    height: 300px;
+    h4{
+        font-weight: bold;
+        font-size: 20px;
+        background-color: $white;
+    }
+    .text_in_grid-container{
+        margin-top: 5px;
+        font-size: 15px;
+        background-color: $white;
+    }
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+.card {
+    height: 40em;
+    img {
+        height: 30em;
+    }
+}
+.card-body{
+    background-color: #212529;
+}
+.Atomic{
+    background-color: #212529;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}
+.row {
+    margin: auto;
+    justify-content: center;
+}
+footer{
+    color:#ffffff;
+    background-color: #212529;
+    border-top: 1px solid white;
+    margin-top: 45px;
+}
+.card-img-top{
+    object-fit: cover;
+    height: 100%;
+}
+.myclass{
+    margin: 0 auto;
+}
+
+.cl{
+    margin: 20px 0;
+}
+main{
+    color: black;
+}
+.signature{
+    text-align: center;
+}
+.last-logo{
+    width: 50px;
+}
+.my-name{
+    margin-left: 10px;
+    align-items: left;
+}
+.icons{
+    width: 50px;
+}
+base{
+    margin: 5px;
+}
